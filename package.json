@@ -1,0 +1,26 @@
+{
+  "name": "react-native-crosswalk-webview",
+  "version": "1.0.0",
+  "description": "Webview Crosswalk for React Native (Android)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grovertb/react-native-crosswalk-webview.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "crosswalk",
+    "xwalk",
+    "android"
+  ],
+  "author": "Grover Trujillo Benites <grover.jtb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grovertb/react-native-crosswalk-webview/issues"
+  },
+  "homepage": "https://github.com/grovertb/react-native-webview-crosswalk#readme"
+}
